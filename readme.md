@@ -17,19 +17,33 @@
 目录
 
 > KoppJson 2.0
+> 
 > ├─include
+> 
 > │  ├─KoppJson.h      和json处理相关的定义
+> 
 > │  └─KoppTemplate    函数模板实现
+> 
 > ├─src
+> 
 > │  ├─Json.cpp   Json类的静态方法，涉及打开和保存。
+> 
 > │  ├─KoppBuild.cpp   从字符串构建json相关
+> 
 > │  ├─KoppJsonPtr.cpp 指向处理位置的指针（基本已弃用）
+> 
 > │  ├─KoppTools.cpp   json处理工具的实现
+> 
 > │  └─KoppValue.cpp   json数值操作相关(增删改查)
+> 
 > ├─test      过去的测试文件
+> 
 > ├─build     cmake文件
+> 
 > ├─Test.cpp  测试文件
+> 
 > ├─readme.md
+> 
 > └─CMakeLists.txt
 
 ## 部分用法
