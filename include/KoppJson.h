@@ -251,6 +251,7 @@ public:
 // json主类 , 主要外部性功能在这里定义
 // 把这个类作为主要功能的一面抛弃了。将功能写到一个static类里，这个类不太适合写静态。
 // 这个类涉及太多内部使用的方法和操作了，外部调用容易出问题，封装起来。
+// 当然，也可以配合KoppJsonPtr做一些复杂的操作。
 class KoppJson{
 friend class Json;
 public:
