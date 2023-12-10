@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 CMakeFiles/Kopptest.dir/Test.cpp.o CMakeFiles/Kopptest.dir/otest.cpp.o CMakeFiles/Kopptest.dir/src/Json.cpp.o CMakeFiles/Kopptest.dir/src/KoppBuild.cpp.o CMakeFiles/Kopptest.dir/src/KoppJsonPtr.cpp.o CMakeFiles/Kopptest.dir/src/KoppValue.cpp.o -o Kopptest 

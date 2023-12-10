@@ -1,0 +1,3 @@
+/home/wqami/workspace/my-json/KoppJson/build/CMakeFiles/Kopptest.dir
+/home/wqami/workspace/my-json/KoppJson/build/CMakeFiles/edit_cache.dir
+/home/wqami/workspace/my-json/KoppJson/build/CMakeFiles/rebuild_cache.dir
